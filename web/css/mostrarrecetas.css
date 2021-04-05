@@ -1,0 +1,23 @@
+
+
+.contimg{
+    box-sizing: border-box;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+@media (min-width: 768px) {
+    
+    .contimg img{
+	width : 100%;
+	min-width: 311px;
+}
+    .card-default{ 
+  border-color: #ddd;
+  background-color: #fff;
+  margin-bottom: 24px;
+  min-height: 680px;
+max-width: 315px;
+}
+}

@@ -1,0 +1,54 @@
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+
+textarea:focus, input:focus, select:focus{
+	border:2px solid #c6cfea;
+}
+.cont{
+	width:100%;
+}
+.nombre{
+	width:49%;
+}
+.apellido{
+	width:49%;
+	float:right;
+}
+.telefono{
+	width:19%;
+}
+.mail{
+	float:right;
+	width:79%;
+}
+.direccion{
+	width:59%;
+}
+.ciudad{
+	float:right;
+	width:19%;
+}
+.pais{
+	float:right;
+	width:20%;
+}
+.mensaje{
+	width:100%;
+}
+.enviar{
+	width:25%;
+	padding:10px;
+	background:#c6cfea;
+}
+.enviar:hover{
+	font-weight:bold;
+}

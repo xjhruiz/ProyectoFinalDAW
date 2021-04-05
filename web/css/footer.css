@@ -1,0 +1,10 @@
+footer{
+	background: #f8f8f8;
+	border-color: #e7e7e7;
+   width:100%;
+   padding: 10px;
+	
+}
+footer .contenido {
+	padding: 0.3%;
+}

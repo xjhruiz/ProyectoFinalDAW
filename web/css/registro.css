@@ -1,0 +1,49 @@
+section .main {
+    padding: 30px 0;
+    min-height: 460px;
+}
+section .login-form {
+    margin: 0 auto;
+    float: none;
+}
+section .panel-intro {
+    padding: 20px 0;
+}
+section .logo {
+    font-size: 25px;
+    color: #33cabb;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+section .form-group input, .form-group textarea {
+    background-color: transparent;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+    box-shadow: none;
+    font-size: 14px;
+    padding: 9px;
+}
+section .input-lg {
+    border-radius: 4px;
+}
+.form-control {
+    box-shadow: none;
+}
+section .a {
+    color: #777;
+}
+
+section .btn-custom {
+    background-color: #33cabb;
+    color: #FFF;
+}
+section .btn {
+    text-transform: uppercase;
+}
+.ckTerm:hover{
+text-decoration: none;
+}
+section .ckTerm {
+color:#33cabb;
+}
