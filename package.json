@@ -1,0 +1,19 @@
+{
+  "name": "proyectofinaldaw",
+  "version": "1.2.1",
+  "description": "mejora proyecto final daw apprecetas",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjhruiz/ProyectoFinalDAW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xjhruiz/ProyectoFinalDAW/issues"
+  },
+  "homepage": "https://github.com/xjhruiz/ProyectoFinalDAW#readme"
+}
